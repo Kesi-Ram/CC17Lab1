@@ -66,6 +66,29 @@
             android:textStyle="bold">
         </TextView>
 
+        <!-- Ivan learning contract -->
+        <TextView
+            android:id="@+id/ivan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ivan_dave_mendiola"
+            android:textAlignment="viewStart"
+            android:layout_margin="10sp"
+            android:textSize="18sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/expectations_1_i_expect_that_this_subject_will_be_fun_and_engaging_2_i_expect_to_gain_a_deep_understanding_of_how_to_create_an_application_3_i_expect_to_learn_the_rules_about_what_is_the_best_tech_stack_for_developing_an_application_4_i_expect_the_lessons_to_be_a_little_bit_hard_5_i_expect_to_practice_using_real_tools_that_app_development_professionals_use_every_day_contributions_1_i_can_contribute_what_i_know_about_this_course_to_my_classmates_2_i_will_actively_participate_in_activities_3_i_will_help_others_when_needed_4_i_will_actively_listen_to_discussions_5_i_will_pass_everything_on_time_motivations_1_i_want_to_build_a_stable_and_successful_career_for_my_future_2_i_am_working_hard_so_i_can_earn_good_money_later_on_3_i_want_to_succeed_so_i_can_keep_up_with_and_support_my_friends_4_i_want_to_make_my_family_proud_of_my_achievements_5_i_need_to_do_well_to_make_sure_my_tuition_is_a_good_investment_hindrances_1_i_often_feel_tired_in_class_because_of_a_lack_of_sleep_2_my_bad_body_clock_makes_it_hard_to_stay_awake_during_early_lessons_3_i_find_it_difficult_to_stay_on_track_because_i_have_a_hard_time_focusing_4_i_sometimes_struggle_to_start_my_work_because_of_laziness_5_i_tend_to_leave_my_assignments_until_the_last_minute_due_to_procrastination"
+            android:textAlignment="viewStart"
+            android:layout_margin="10sp"
+            android:textSize="18sp"
+            android:textStyle="bold">
+        </TextView>
+
 
 
 
