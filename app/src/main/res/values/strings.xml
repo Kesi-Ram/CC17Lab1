@@ -1,10 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CC17Lab 1</string>
-    <string name="laboratory_activity_1_nlearning_contract_application">Laboratory activity 1\nLearning Contract Application</string>
-    <string name="members_group_name_n_aquino_n_collado_n_codiamat_n_mendiola_n_sangbaan">Members: (group name)\n Aquino\n Collado\n Codiamat\n Mendiola\n Sangbaan</string>
-    <string name="learning_contract">Learning Contract</string>
-    <string name="kacey_royce_tyne_sangbaan">Kacey Royce Tyne Sangbaan:</string>
-    <string name="i_expectations_n_n1_i_expect_to_learn_new_things_n2_i_expect_to_have_more_knowledge_about_information_systems_n3_i_expect_to_use_the_things_i_learn_here_for_our_capstone_n4_i_expect_my_teacher_to_have_patience_in_teaching_this_course_n5_i_also_expect_my_classmates_to_be_helpful_n_nii_contribution_n_n1_to_collaborate_n2_to_attend_classes_n3_to_participate_in_activities_n4_exert_enough_effort_to_pass_n5_to_help_my_classmates_when_they_are_having_a_hard_time_and_i_am_understanding_the_lesson_n_niii_motivations_n_n1_high_tuition_n2_my_loved_ones_n3_the_importance_of_this_course_to_my_future_n4_to_gain_more_knowledge_n5_finishing_this_course_n_niv_hindrances_n_n1_laziness_n2_lack_of_prior_knowledge_n3_easily_getting_uninterested_or_a_sense_of_ennui_n4_getting_easily_tired_when_there_s_a_lot_of_activities_n5_sometimes_being_late_because_of_staying_up_all_night">I. EXPECTATIONS\n\n1. I expect to learn new things.\n2. I expect to have more knowledge about information systems.\n3. I expect to use the things I learn here for our capstone.\n4. I expect my teacher to have patience in teaching this course.\n5. I also expect my classmates to be helpful.\n\nII. CONTRIBUTION\n\n1. To collaborate.\n2. To attend classes.\n3. To participate in activities.\n4. Exert enough effort to pass.\n5. To help my classmates when they are having a hard time and I am understanding the lesson.\n\nIII. MOTIVATIONS\n\n1. High tuition.\n2. My loved ones.\n3. The importance of this course to my future.\n4. To gain more knowledge.\n5. Finishing this course.\n\nIV. HINDRANCES\n\n1. Laziness.\n2. Lack of prior knowledge.\n3. Easily getting uninterested or a sense of ennui.\n4. Getting easily tired when there\'s a lot of activities.\n5. Sometimes being late because of staying up all night.</string>
-    <string name="ivan_dave_mendiola">Ivan Dave Mendiola</string>
-    <string name="expectations_1_i_expect_that_this_subject_will_be_fun_and_engaging_2_i_expect_to_gain_a_deep_understanding_of_how_to_create_an_application_3_i_expect_to_learn_the_rules_about_what_is_the_best_tech_stack_for_developing_an_application_4_i_expect_the_lessons_to_be_a_little_bit_hard_5_i_expect_to_practice_using_real_tools_that_app_development_professionals_use_every_day_contributions_1_i_can_contribute_what_i_know_about_this_course_to_my_classmates_2_i_will_actively_participate_in_activities_3_i_will_help_others_when_needed_4_i_will_actively_listen_to_discussions_5_i_will_pass_everything_on_time_motivations_1_i_want_to_build_a_stable_and_successful_career_for_my_future_2_i_am_working_hard_so_i_can_earn_good_money_later_on_3_i_want_to_succeed_so_i_can_keep_up_with_and_support_my_friends_4_i_want_to_make_my_family_proud_of_my_achievements_5_i_need_to_do_well_to_make_sure_my_tuition_is_a_good_investment_hindrances_1_i_often_feel_tired_in_class_because_of_a_lack_of_sleep_2_my_bad_body_clock_makes_it_hard_to_stay_awake_during_early_lessons_3_i_find_it_difficult_to_stay_on_track_because_i_have_a_hard_time_focusing_4_i_sometimes_struggle_to_start_my_work_because_of_laziness_5_i_tend_to_leave_my_assignments_until_the_last_minute_due_to_procrastination">EXPECTATIONS\n1. I expect that this subject will be fun and engaging.\n2. I expect to gain a deep understanding of how to create an application.\n3. I expect to learn the rules about what is the best tech stack for developing an application.\n4. I expect the lessons to be a little bit hard.\n5. I expect to practice using real tools that app development professionals use every day.\n\nCONTRIBUTIONS\n1. I can contribute what I know about this course to my classmates.\n2. I will actively participate in activities.\n3. I will help others when needed.\n4. I will actively listen to discussions.\n5. I will pass everything on time.\n\nMOTIVATIONS\n1. I want to build a stable and successful career for my future.\n2. I am working hard so I can earn good money later on.\n3. I want to succeed so I can keep up with and support my friends.\n4. I want to make my family proud of my achievements.\n5. I need to do well to make sure my tuition is a good investment.\n\nHINDRANCES\n1. I often feel tired in class because of a lack of sleep.\n2. My bad body clock makes it hard to stay awake during early lessons.\n3. I find it difficult to stay on track because I have a hard time focusing.\n4. I sometimes struggle to start my work because of laziness.\n5. I tend to leave my assignments until the last minute due to procrastination.</string>
+
+    <string name="app_name">CC17Lab1</string>
+
+    <string name="title">
+        laboratory activity1/learning contract application
+    </string>
+
+    <string name="members">
+    Members:\n
+    Aquino\n
+    Collado\n
+    Codiamat\n
+    Mendiola\n
+    Sangbaan
+    </string>
+
+    <string name="header">
+        Learning Contract
+    </string>
+
+    <string name="Kacey">
+        Kacey Royce Tyne Sangbaan
+    </string>
+
+    <string name="Ivan">
+        Ivan Dave Mendiola
+    </string>
+
+<string name="content1">I. Expectations\n\nI expect to learn new things.\nI expect to learn how to develop an app.\nI expect to use the things I learn here for our capstone.\nI expect my teacher to have patience in teaching this course.\nI also expect my classmates to be helpful.\n\nII. Contribution\n\nTo collaborate.\nTo attend classes.\nTo participate in activities.\nExert enough effort to pass.\nTo help my classmates when they are having a hard time and I am understanding the lesson.\n\nIII. Motivations\n\nHigh tuition.\nMy loved ones.\nThe importance of this course to my future.\nTo gain more knowledge.\nFinishing this course.\n\nIV. Hindrances\n\nLaziness.\nLack of prior knowledge.\nEasily getting uninterested or a sense of ennui.\nGetting easily tired when there are a lot of activities.\nSometimes being late because of staying up all night.</string>
+    <string name="content2">I. Expectations\n\nI expect that this subject will be fun and engaging.\nI expect to gain a deep understanding of how to create an application.\nI expect to learn the rules about what is the best tech-stack for developing an application.\nI expect the lessons to be a little bit hard.\nI expect to practice using real tools that app-dev pros use every day.\n\nII. Contributions\n\nI can contribute what I know about this course to my classmates.\nI will actively participate in activities.\nI will help others when needed.\nI will actively listen to discussions.\nI will pass everything on time.\n\nIII. Motivations\n\nI want to build a stable and successful career for my future.\nI am working hard so I can earn good money later on.\nI want to succeed so I can keep up with and support my friends.\nI want to make my family proud of my achievements.\nI need to do well to make sure my tuition is a good investment.\n\nVI. Hindrances\n\nI often feel tired in class because of a lack of sleep.\nMy bad body clock makes it hard to stay awake during early lessons.\nI find it difficult to stay on track because I have a hard time focusing.\nI sometimes struggle to start my work because of laziness.\nI tend to leave my assignments until the last minute due to procrastination.</string>
 </resources>
