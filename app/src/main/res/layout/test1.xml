@@ -93,8 +93,30 @@
             android:textStyle="bold">
         </TextView>
 
+        <!-- Brent learning contract -->
+        <TextView
+            android:id="@+id/brent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/Brent"
+            android:textColor="@color/white"
+            android:background="@color/gray"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:textStyle="bold">
+        </TextView>
 
-
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/content3"
+            android:textAlignment="viewStart"
+            android:layout_margin="10sp"
+            android:textSize="18sp"
+            android:textStyle="bold">
+        </TextView>
 
     </LinearLayout>
 
