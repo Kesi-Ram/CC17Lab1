@@ -57,18 +57,18 @@
             android:textStyle="bold">
         </TextView>
 
+        <!-- Ivan learning contract -->
+
         <TextView
             android:id="@+id/contents"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_margin="10sp"
             android:text="@string/content1"
             android:textAlignment="viewStart"
-            android:layout_margin="10sp"
             android:textSize="18sp"
-            android:textStyle="bold">
-        </TextView>
+            android:textStyle="bold"></TextView>
 
-        <!-- Ivan learning contract -->
         <TextView
             android:id="@+id/ivan"
             android:layout_width="match_parent"
@@ -112,6 +112,31 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/content3"
+            android:textAlignment="viewStart"
+            android:layout_margin="10sp"
+            android:textSize="18sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <!-- Frank Learning Contract -->
+        <TextView
+            android:id="@+id/Frank"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/Frank"
+            android:textColor="@color/white"
+            android:background="@color/gray"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:id="@+id/descriptions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/content4"
             android:textAlignment="viewStart"
             android:layout_margin="10sp"
             android:textSize="18sp"
